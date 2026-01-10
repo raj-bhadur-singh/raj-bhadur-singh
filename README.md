@@ -35,3 +35,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-bhadur-singh&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-bhadur-singh&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/raj-bhadur-singh/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=raj-bhadur-singh" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-bhadur-singh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
