@@ -73,8 +73,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Add your link*
-- 🌐 Portfolio: *Coming soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-mernstack-dev/
+- 🌐 Portfolio: https://rajbhadursingh.vercel.app/
 - ✉️ Email: *rajbhadurs809@gmail.com*
 
 ---
